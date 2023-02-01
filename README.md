@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udoh-abasi
 - 👀 I’m interested in Backend Dev
-- 🌱 I’m currently learning Python Programming Language
+- My stack is HTML, CSS, JavaScript, React, Python, Django
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - udohabasionosunday@gmail.com or +234-81-4262-2350
 
