@@ -2,7 +2,7 @@
   
 - Results-driven Fullstack Engineer with 4+ years of experience and expertise in planning, designing, and implementing high-quality web apps.
   
-- Proven ability to quickly understand requirements and create innovative solutions using modern frameworks like React, Django, NextJS and TailwindCSS, Radix UI, etc.
+- Proven ability to quickly understand requirements and create innovative solutions using modern frameworks like NestJS, React, Django, NextJS and TailwindCSS, Radix UI, etc.
   
 - Demonstrated expertise in reducing page load times by 50%, implementing RESTful APIs, and driving user engagement through optimized web solutions.
   
